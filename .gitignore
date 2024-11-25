@@ -1,0 +1,27 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Visual Studio specific
+.vs/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+*.DS_Store
+
+# JetBrains Rider
+.idea/
+
+# Dependency directories
+packages/
